@@ -1,7 +1,7 @@
 {
     "advertising": {
         "enabled": false,
-        "adServerUrl": null,
+        "adServerUrl": "sdfsd",
         "adTimeout": 2000,
         "maxAds": 100,
         "adInterval": 0
